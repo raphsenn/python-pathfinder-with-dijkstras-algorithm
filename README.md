@@ -2,9 +2,10 @@
 
 This Python project implements a pathfinding algorithm using Dijkstra's algorithm to find the shortest path between two points in a maze-like environment. The maze is represented as a 2D matrix, and the code comments within the repository provide detailed explanations of the implementation.
 
-<div align="center">
-  <img src="./images/pathfinder.gif" alt="Alternativer Text">
-</div>
+<p float="left">
+   <img src="./images/have.png" width=400 height=400>
+   <img src="./images/fun.png" width=400 height=400>
+</p>
 
 ## Features
 
@@ -36,6 +37,10 @@ To use this Python Pathfinder with Dijkstra's Algorithm, follow these steps:
    - To clear the maze and start over, press the **Delete key**.
 
 Explore the matrix-based maze representation and observe the pathfinding process to find the shortest path between the start and end positions within the maze. Customize the maze by creating walls to define the path and challenge the algorithm.
+
+<div align="center">
+  <img src="./images/pathfinder.gif" alt="Alternativer Text">
+</div>
 
 ## Getting Started
 
