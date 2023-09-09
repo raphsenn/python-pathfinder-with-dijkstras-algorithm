@@ -8,14 +8,14 @@ This Python project implements a pathfinding algorithm using Dijkstra's algorith
 
 - **Dijkstra's Algorithm**: Utilizes Dijkstra's algorithm to find the shortest path in the maze.
 
-- **Real-time Visualization**: Visualize the maze, pathfinding process, and final path in real-time using the Pygame library.
+- **Real-time Visualization**: Visualize the maze, and final path in real-time using the Pygame library.
 
 - **Interactive Maze Creation**: Create custom mazes by setting walls, start points, and destination points using a graphical interface.
 
 - **Configurable Block Size**: Adjust the size of each grid block in the maze to create larger or smaller environments.
 
-# Example
-- **Blocksize 25 and 100
+## Example Blocksize
+- **Blocksize 25 and Blocksize 100**
 
 ![25](https://github.com/raphsenn/Python-Pathfinder-with-Dijkstras-Algorithm/assets/88326020/6b839031-7bc9-42ff-9544-64453a5cb4a5)
 ![100](https://github.com/raphsenn/Python-Pathfinder-with-Dijkstras-Algorithm/assets/88326020/1415e22c-b193-4fe9-bb86-8ba51b04aa01)
