@@ -49,8 +49,8 @@ To run this Python Pathfinder with Dijkstra's Algorithm, follow these steps:
 ## Example Blocksize
 - **Blocksize 25 and Blocksize 100**
 <p float="left">
-   <img src="./images/25.png" width=450 height=450>
-   <img src="./images/100.png" width=450 height=450>
+   <img src="./images/25.png" width=400 height=400>
+   <img src="./images/100.png" width=400 height=400>
 </p>
 
 # License
