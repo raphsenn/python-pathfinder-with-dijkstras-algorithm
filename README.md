@@ -2,6 +2,10 @@
 
 This Python project implements a pathfinding algorithm using Dijkstra's algorithm to find the shortest path between two points in a maze-like environment. The maze is represented as a 2D matrix, and the code comments within the repository provide detailed explanations of the implementation.
 
+<div align="center">
+  <img src="./images/pathfinder.gif" alt="Alternativer Text">
+</div>
+
 ## Features
 
 - **Maze as a Matrix**: The maze is represented as a 2D matrix, where 1s denote open paths, and 0s denote walls.
@@ -44,9 +48,10 @@ To run this Python Pathfinder with Dijkstra's Algorithm, follow these steps:
 
 ## Example Blocksize
 - **Blocksize 25 and Blocksize 100**
-
-![25](https://github.com/raphsenn/Python-Pathfinder-with-Dijkstras-Algorithm/assets/88326020/6b839031-7bc9-42ff-9544-64453a5cb4a5)
-![100](https://github.com/raphsenn/Python-Pathfinder-with-Dijkstras-Algorithm/assets/88326020/1415e22c-b193-4fe9-bb86-8ba51b04aa01)
+<p float="left">
+   <img src="./images/25.png" width=450 height=450>
+   <img src="./images/100.png" width=450 height=450>
+</p>
 
 # License
 This program is licensed under the MIT License. See the LICENSE file for more information.
