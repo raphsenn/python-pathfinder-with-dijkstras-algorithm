@@ -49,7 +49,7 @@ To run this Python Pathfinder with Dijkstra's Algorithm, follow these steps:
 1. Clone the repository to your local machine
 2. Navigate to the project directory
 3. Install the required dependencies, including Pygame
-5. To run just type: pyhton3 main.py
+5. To run just type: python3 main.py
 
 ## Example Blocksize
 - **Blocksize 25 and Blocksize 100**
